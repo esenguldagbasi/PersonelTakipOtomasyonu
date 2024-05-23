@@ -244,7 +244,7 @@
             this.Controls.Add(this.cmbDepartman);
             this.Controls.Add(this.txtAdi);
             this.Name = "frmPersonelEkle";
-            this.Text = "frmPersonelEkle";
+            this.Text = "Personel Ekleme Sayfası";
             this.Load += new System.EventHandler(this.frmPersonelEkle_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
