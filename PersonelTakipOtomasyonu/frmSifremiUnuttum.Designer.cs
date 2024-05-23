@@ -209,7 +209,7 @@
             this.Controls.Add(this.txtSifre);
             this.Controls.Add(this.txtKullaniciAdi);
             this.Name = "frmSifremiUnuttum";
-            this.Text = "frmSifremiUnuttum";
+            this.Text = "Şifremi Unuttum";
             this.Load += new System.EventHandler(this.frmSifremiUnuttum_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
